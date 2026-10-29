@@ -1,0 +1,12 @@
+{
+  "name": "MARGDARSHAN — Career Guidance",
+  "short_name": "MARGDARSHAN",
+  "description": "Explore careers, education pathways, scholarships, learning resources, and education costs.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f2",
+  "theme_color": "#112a35",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
